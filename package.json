@@ -8,6 +8,21 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibold-dev/nova_interface.git"
+  },
+  "keywords": [
+    "nova",
+    "marketplace",
+    "interface"
+  ],
+  "author": "ibold-dev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibold-dev/nova_interface/issues"
+  },
+  "homepage": "https://github.com/ibold-dev/nova_interface#readme",
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
